@@ -1,6 +1,3 @@
-# breast-cancer-classification-using-svm
-End-to-end SVM classification project demonstrating data preprocessing, feature selection, kernel comparison, hyperparameter tuning, performance evaluation, and model robustness analysis on the Breast Cancer Wisconsin dataset.
-
 # Breast Cancer Classification using Support Vector Machines (SVM)
 
 An end-to-end machine learning project that applies Support Vector Machines (SVM) to classify breast cancer tumors using the Breast Cancer Wisconsin Diagnostic Dataset. This project explores different SVM kernels, performs hyperparameter tuning with Grid Search, analyzes model performance, and investigates the impact of noisy and overlapping data.
