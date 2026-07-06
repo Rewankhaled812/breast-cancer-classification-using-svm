@@ -41,8 +41,7 @@ This project uses the **Breast Cancer Wisconsin (Diagnostic) Dataset** from the 
   - Malignant (M)
   - Benign (B)
 
-Dataset source:
-https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data
+Dataset source: UCI Machine Learning Repository – Breast Cancer Wisconsin (Diagnostic) Dataset
 
 **Dataset:** Breast Cancer Wisconsin Diagnostic Dataset
 
