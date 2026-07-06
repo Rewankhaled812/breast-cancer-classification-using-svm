@@ -33,6 +33,17 @@ The project covers the complete machine learning workflow, from preprocessing an
 
 ## Dataset
 
+This project uses the **Breast Cancer Wisconsin (Diagnostic) Dataset** from the UCI Machine Learning Repository.
+
+- Samples: 569
+- Features: 30 numerical features
+- Target Classes:
+  - Malignant (M)
+  - Benign (B)
+
+Dataset source:
+https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data
+
 **Dataset:** Breast Cancer Wisconsin Diagnostic Dataset
 
 - 569 samples
